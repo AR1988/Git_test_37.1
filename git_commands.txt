@@ -6,3 +6,5 @@ git rm --cached <путь к файлу>
 Пример для удаления файла Git_test.iml:
 
 git rm --cached Git_test.iml
+
+Если не использовать --cached, то файл будет удален локально.
